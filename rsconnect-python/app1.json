@@ -1,0 +1,11 @@
+{
+    "https://api.shinyapps.io": {
+        "server_url": "https://api.shinyapps.io",
+        "filename": "C:\\Users\\eagle\\Documents\\repo\\WYN-Chatbot\\app1",
+        "app_url": "https://y-yin.shinyapps.io/medical-chatbot/",
+        "app_id": 9048667,
+        "app_guid": null,
+        "title": "Medical-Chatbot",
+        "app_mode": "python-shiny"
+    }
+}
