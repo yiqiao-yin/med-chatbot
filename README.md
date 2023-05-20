@@ -1,5 +1,9 @@
 # Medical Chatbot
 
+<p align="center">
+    <img src="https://github.com/yiqiao-yin/med-chatbot/blob/main/main.gif"></img>
+</p>
+
 ## How to Run
 
 To run the Medical Chatbot application, you will need to execute the command `run shiny app.py` in your terminal or command prompt. This will start the application and allow it to receive incoming questions from users.
